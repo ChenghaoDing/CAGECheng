@@ -1,2 +1,1 @@
-# CAGECheng
-Test
+# Climate Action Game Experiment
